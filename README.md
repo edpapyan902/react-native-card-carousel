@@ -233,8 +233,3 @@ Android's debug mode is a mess: timeouts regularly desynchronize and scroll even
 - [x] Improve snap on Android
 - [x] Handle passing 1 item only
 - [x] Fix centering
-
-## Credits
-
-Written by [Benoît Delmaire](https://fr.linkedin.com/in/benoitdelmaire) ([bd-arc](https://github.com/bd-arc)) and [Maxime Bertonnier](https://fr.linkedin.com/in/maxime-bertonnier-744351aa) ([Exilz](https://github.com/Exilz)) at
-[Edgar Papyan](https://www.edpapyan902.com/).
